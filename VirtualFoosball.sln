@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualFoosball.CSharp.Plugins", "VirtualFoosball.CSharp.Plugins.csproj", "{B54D03BE-7D54-59FC-2A26-593BC6CDFEE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualFoosball.CSharp", "VirtualFoosball.CSharp.csproj", "{FF12F312-3F91-2CDB-8612-93FBFC2E0B31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualFoosball.CSharp.Editor", "VirtualFoosball.CSharp.Editor.csproj", "{F1CEFA1D-63F4-DCE5-2DBA-9926D7E96C1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B54D03BE-7D54-59FC-2A26-593BC6CDFEE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B54D03BE-7D54-59FC-2A26-593BC6CDFEE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B54D03BE-7D54-59FC-2A26-593BC6CDFEE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B54D03BE-7D54-59FC-2A26-593BC6CDFEE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF12F312-3F91-2CDB-8612-93FBFC2E0B31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF12F312-3F91-2CDB-8612-93FBFC2E0B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF12F312-3F91-2CDB-8612-93FBFC2E0B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF12F312-3F91-2CDB-8612-93FBFC2E0B31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1CEFA1D-63F4-DCE5-2DBA-9926D7E96C1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1CEFA1D-63F4-DCE5-2DBA-9926D7E96C1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1CEFA1D-63F4-DCE5-2DBA-9926D7E96C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1CEFA1D-63F4-DCE5-2DBA-9926D7E96C1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
